@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @npandolfi
 - 👀 I’m interested in coding specific to the ad tech industry
-- 🌱 I’m currently taking a CS50 course and learning C
-- 💞️ I’m looking to collaborate on anything related to advertising technology
 - 📫 How to reach me: pandolfinicholas@gmail.com
 
 <!---
